@@ -2,9 +2,9 @@
 
 <div align="center">
 
-| | |
-|:---:|:---|
 | <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXp4aW54ZTNpNmNjazRyY3NqbndtYzE4em9wdjFweXczenF0amthdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DU3DhzJli9dsc/giphy.gif" width="480"> | **Shriman** (Level 20) <br> ---------------------------------- <br> **Main Class**: Low-Level Systems Engineer <br> **Sub Class**: High-Level Gamer <br> **OS**: Arch Linux (BTW) <br> **Weapon**: Neovim + C++/Rust <br> **BGM**: Lofi / Tamil <br> **Current Quest**: The "Text Editor" Arc <br> **Anime**: Code Geass <br> **Gaming**: Minecraft (peak) |
+|:---:|:---|
+
 
 </div>
 
@@ -51,8 +51,10 @@ Yo! I'm a **Systems Engineering Student** aiming for the stars (and kernel space
 | **Quest Name** | **Status / Description** | **Loot (Tech)** |
 |:--- |:--- |:--- |
 | 🌌 **Neon-Kernel** | [Portfolio Website](https://www.shriman.pro) (In Progress) | `React` `Tailwind` |
-| 📂 **FUSE-FS** | Custom Userspace Filesystem | `C` `Syscalls` |
+| 🎵 **Melody OS** | Embedded Audio Firmware (RPi 3) | `Buildroot` `Linux` `Rust`|
 | 🎲 **Project: ? ? ?** | [REDACTED] Game Development | `Godot` `Shaders` |
+| 📂 **FUSE-FS** | Custom Userspace Filesystem | `C` `Syscalls` |
+
 
 
 <br><div align="center">
