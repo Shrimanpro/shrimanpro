@@ -35,7 +35,7 @@ Yo! I'm a **Systems Engineering Student** aiming for the stars (and kernel space
 | **Currently Coding** | **Currently Playing** | **Currently Watching** |
 |:---:|:---:|:---:|
 |  **C** (Shrimp Editor) | 🎸 Unbeatable | Frieren |
-|  **Godot** (Secret Game) | ⚔️ Elden Ring | Jujutsu Kaisen |
+|  **Godot** (Secret Game) | 🎭 Persona 5 | Jujutsu Kaisen |
 
 <br>
 
