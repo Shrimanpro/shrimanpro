@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXp4aW54ZTNpNmNjazRyY3NqbndtYzE4em9wdjFweXczenF0amthdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DU3DhzJli9dsc/giphy.gif" width="480"> | **Shriman** (Level 20) <br> ---------------------------------- <br> **Main Class**: Low-Level Systems Engineer <br> **Sub Class**: High-Level Gamer <br> **OS**: Arch Linux (BTW) <br> **Weapon**: Neovim + C++/Rust <br> **BGM**: Lofi / Tamil <br> **Current Quest**: The "Text Editor" Arc <br> **Anime**: Code Geass <br> **Gaming**: Minecraft (peak) |
+| <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXp4aW54ZTNpNmNjazRyY3NqbndtYzE4em9wdjFweXczenF0amthdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DU3DhzJli9dsc/giphy.gif" width="480"> | **Shriman** (Level 21) <br> ---------------------------------- <br> **Main Class**: Low-Level Systems Engineer <br> **Sub Class**: High-Level Gamer <br> **OS**: Arch Linux (BTW) <br> **Weapon**: Neovim + C++/Rust <br> **BGM**: Lofi / Tamil <br> **Current Quest**: The OS War Arc <br> **Anime**: Code Geass <br> **Gaming**: Minecraft (peak) |
 |:---:|:---|
 
 
@@ -24,18 +24,18 @@
 
 Yo! I'm a **Systems Engineering Student** aiming for the stars (and kernel space). I keep my workflow chill, but my code runs **fast**. I live in the terminal, dream in memory addresses, and I'm constantly breaking things just to see how to fix them faster.
 
-- 📝 **Currently Building**: **Shrimp Editor**, a lightweight editor written in **C**.
+- 📝 **Currently Building**: **Melody OS**, a lightweight custom operating system written in **Rust**.
 - 🤫 **Secret Project**: Developing a **[REDACTED]** game. It's gonna be a surprise.
 - 💬 **Ask me about**: Kernel panics, Segfaults, and why `vim` motions are life.
-- 🚀 **Motto**: "If it compiles, ship it. If it crashes, call it a feature."
+- 🚀 **Motto**: "If it compiles, push it. If it crashes, call it a feature."
 
 <br>
 
 ### ☕ The Daily Grind
 | **Currently Coding** | **Currently Playing** | **Currently Watching** |
 |:---:|:---:|:---:|
-|  **C** (Shrimp Editor) | 🎸 Unbeatable | Frieren |
-|  **Godot** (Secret Game) | 🎭 Persona 5 | Jujutsu Kaisen |
+|  **Rust** (Melody OS) | 🎸 Unbeatable | Frieren |
+|  **Godot** (Secret Game) | 🗡️ Elden Ring | Jujutsu Kaisen |
 
 <br>
 
@@ -51,7 +51,7 @@ Yo! I'm a **Systems Engineering Student** aiming for the stars (and kernel space
 | **Quest Name** | **Status / Description** | **Loot (Tech)** |
 |:--- |:--- |:--- |
 | 🌌 **Neon-Kernel** | [Portfolio Website](https://www.shriman.pro) (In Progress) | `React` `Tailwind` |
-| 🎵 **Melody OS** | Embedded Audio Firmware (RPi 3) | `Buildroot` `Linux` `Rust`|
+| 🎵 **Melody OS** | Embedded Audio Firmware (x86_64) | `Linux` `Rust`|
 | 🎲 **Project: ? ? ?** | [REDACTED] Game Development | `Godot` `Shaders` |
 | 📂 **FUSE-FS** | Custom Userspace Filesystem | `C` `Syscalls` |
 
